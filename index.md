@@ -1,7 +1,3 @@
-# Kadoxti at GitHub
-
-My name is Zaur and i am software developer from Russia.
-
 ## Biography
 
 Some words about my life.
